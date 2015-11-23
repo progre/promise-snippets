@@ -1,0 +1,20 @@
+{
+    "Promise with function": {
+        "prefix": "promisef",
+        "body": [
+            "new Promise(function (resolve, reject) {",
+            "    $1",
+            "});"
+        ],
+        "description": "Promise with function"
+    },
+    "Promise": {
+        "prefix": "promise",
+        "body": [
+            "new Promise((resolve, reject) => {",
+            "    $1",
+            "});"
+        ],
+        "description": "Promise"
+    }
+}
