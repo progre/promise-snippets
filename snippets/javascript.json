@@ -3,7 +3,7 @@
         "prefix": "promisef",
         "body": [
             "new Promise(function (resolve, reject) {",
-            "    $1",
+            "\t$1",
             "});"
         ],
         "description": "Promise with function"
@@ -12,7 +12,7 @@
         "prefix": "promise",
         "body": [
             "new Promise((resolve, reject) => {",
-            "    $1",
+            "\t$1",
             "});"
         ],
         "description": "Promise"
