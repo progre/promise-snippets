@@ -1,17 +1,14 @@
-Promise snippets
-====
+# Promise snippets
 
-JavaScript
-----
+## JavaScript
 
-|Trigger|Content|
-|:-----:|-------|
-|promise|`new Promise((resolve, reject) => { ... });`|
-|promisef|`new Promise(function (resolve, reject) { ... });`|
+| Trigger  | Content                                            |
+| :------: | -------------------------------------------------- |
+| promise  | `new Promise((resolve, reject) => { ... });`       |
+| promisef | `new Promise(function (resolve, reject) { ... });` |
 
-TypeScript
-----
+## TypeScript / JavaScript React / TypeScript React
 
-|Trigger|Content|
-|:-----:|-------|
-|promise|`new Promise((resolve, reject) => { ... });`|
+| Trigger | Content                                      |
+| :-----: | -------------------------------------------- |
+| promise | `new Promise((resolve, reject) => { ... });` |
